@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2923967186
+CRC: 909534476
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82df82f85db51e79a4304cd6f2653814
+    Hash: 26b3ecbd2d7bec4fef06e29423cd8aca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 862c161c1e3bb19b1de09a53c16f476d
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Textures/Points/p20.JPG
+- Assets/Textures/Points/p20.png
 Dependencies: []
